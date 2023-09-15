@@ -3,8 +3,7 @@
     
 ## Privacy Policy
 
-<p>Office of the Secretary to the Sanggunian built the Legislative Management Tracking App app as
-a Free app. This SERVICE is provided by
+<p>Office of the Secretary to the Sanggunian built the Legislative Management Tracking App mainly for municipality of Laoag City, Ilocos Norte, Philippines for the purpose of their paperless session. This SERVICE is provided by
 Office of the Secretary to the Sanggunian at no cost and is intended for use as
 is.
 </p> <p>
