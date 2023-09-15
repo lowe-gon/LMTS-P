@@ -90,13 +90,14 @@ delete this from our servers. If you are a parent or guardian
 and you are aware that your child has provided us with
 personal information, please contact us so that
 we will be able to do the necessary actions.
-</p></div> <!----> <strong>Changes to This Privacy Policy</strong></p> <p>
+</p></div> <!----> <strong>Changes to This Privacy Policy</strong>
 We may update our Privacy Policy from
 time to time. Thus, you are advised to review this page
 periodically for any changes. We will
 notify you of any changes by posting the new Privacy Policy on
 this page.
- This policy is effective as of 2030-09-07 <strong>Contact Us</strong
+ This policy is effective as of 2030-09-07 
+<strong>Contact Us</strong>
 If you have any questions or suggestions about our
 Privacy Policy, do not hesitate to contact us at hackdogs.inc@gmal.com.
-This privacy policy page was created at Hackdogs Software Development Incorporated</p>
+This privacy policy page was created at Hackdogs Software Development Incorporated
