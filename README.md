@@ -3,7 +3,7 @@
     
 ## Privacy Policy
 
-<p>Office of the Secretary to the Sanggunian built the Legistimate Management Tracking App app as
+<p>Office of the Secretary to the Sanggunian built the Legislative Management Tracking App app as
 a Free app. This SERVICE is provided by
 Office of the Secretary to the Sanggunian at no cost and is intended for use as
 is.
