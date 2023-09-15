@@ -95,7 +95,7 @@ time to time. Thus, you are advised to review this page
 periodically for any changes. We will
 notify you of any changes by posting the new Privacy Policy on
 this page.
- This policy is effective as of 2030-09-07 
+ This policy is effective as of 2030-09-07. 
 <strong>Contact Us</strong>
 If you have any questions or suggestions about our
 Privacy Policy, do not hesitate to contact us at hackdogs.inc@gmal.com.
